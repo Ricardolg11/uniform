@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660403867 source:c:\users\lg\desktop\principal\estudos\c++\aula55uniforme\main.cpp
+	<iostream>
+	<vector>
+	<map>
+
